@@ -1,9 +1,9 @@
 # kcompiler
-Compile kotlin files to .jar files
-Run .jar files using java
-Compile kotlin directories
+Compile kotlin files to .jar files,
+Run .jar files using java,
+Compile kotlin directories.
 
-# Requiremt
+# Requirents
 ```shell
 openjdk-11-jdk
 kotlin
