@@ -19,17 +19,17 @@ compile_kotlin
 ```
 # Arguments
 ```shell
--h/--help help message
-```
+-h/--help``` help message
+
 ```shell
--run run only
-```
+-run ```run only
+
 ```shell
--CR compile and run
-```
+-CR``` compile and run
+
 ```shell
-input target file or folder/directory
-```
+input``` target file or folder/directory
+
 
 # Usange
 ```shell
